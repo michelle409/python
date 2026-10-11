@@ -5,7 +5,7 @@ def get_choice(): #a function is a set of code which only runs when its called.
     return player_choice
 
 choices = get_choice()
-print(choices)
+print(choices) #make a variable. assign the function to the variable and print the variabkle to get the function.
 
 
 """def greeting():
